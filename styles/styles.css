@@ -1,0 +1,34 @@
+body {
+    background-color:pink;
+    
+}
+.exp {
+    color:red;
+    border:1px solid black;
+    background-color:white;
+    padding:10px 5px 10px 5px;
+    margin-left:10px;
+    text-decoration:none;
+}
+.fav {
+    color:red;
+    border:1px solid black;
+    background-color:white;
+    padding:10px 5px 10px 5px;
+    margin-left:10px;
+    text-decoration:none;
+}
+.exp:hover {
+    background-color:blue;
+    font-style:italic;
+}
+.fav:hover {
+    background-color:green;
+    font-style:italic;
+}
+.bio {
+    border-style:groove;
+    border-width: 10px;
+    font-size:25;
+    
+}

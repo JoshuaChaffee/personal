@@ -1,0 +1,34 @@
+body {
+    background-color: blue;
+}
+a.fav {
+    color:red;
+    border:1px solid black;
+    background-color:white;
+    padding:10px 5px 10px 5px;
+    margin-left:10px;
+    text-decoration:none;
+}
+.fav:hover {
+    background-color:green;
+    font-style:italic;
+}
+
+a.myself {
+    color:red;
+    border:1px solid black;
+    background-color:white;
+    padding:10px 5px 10px 5px;
+    margin-left:10px;
+    text-decoration:none;
+    
+}
+.myself:hover {
+    background-color:pink;
+    font-style:italic;
+}
+img {
+    position: relative;
+    left:500px;
+    
+}
