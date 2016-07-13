@@ -21,15 +21,17 @@ body {
 .exp:hover {
     background-color:blue;
     font-style:italic;
+    transition-duration:0.5s;
 }
 .fav:hover {
     background-color:green;
     font-style:italic;
+    transition-duration:0.5s;
 }
 .bio {
     border-style:groove;
     border-width: 10px;
-    font-size:25;
+    font-size:50;
     
 }
 .myself {
@@ -46,5 +48,6 @@ body {
 .myself:hover {
     font-style:italic;
     background-color:yellow;
+    transition-duration:0.5s;
     
 }

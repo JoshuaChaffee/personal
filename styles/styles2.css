@@ -1,5 +1,8 @@
 body {
-    background-color: blue;
+    background-image: url(../images/IMG_4627.JPG);
+    color:black;
+    background-repeat:repeat-x;
+    font-size:25;
 }
 a.fav {
     color:red;
@@ -12,6 +15,7 @@ a.fav {
 .fav:hover {
     background-color:green;
     font-style:italic;
+    transition-duration: 0.5s;
 }
 
 a.myself {
@@ -26,6 +30,7 @@ a.myself {
 .myself:hover {
     background-color:pink;
     font-style:italic;
+    transition-duration: 0.5s
 }
 img {
     position: relative;
@@ -45,3 +50,7 @@ img {
     background-color:yellow;
     transition-duration:0.5s;
     font-style:italic;
+}
+.accomplishments {
+    font-size: 30
+}
