@@ -1,0 +1,51 @@
+body {
+    background-image: url(../images/mariokart.jpg);
+    color:yellow;
+    font-size:50;
+}
+
+a.myself {
+    color:red;
+    border:1px solid black;
+    background-color:white;
+    padding:10px 5px 10px 5px;
+    margin-left:10px;
+    text-decoration:none;
+}
+
+.myself:hover {
+    background-color:pink;
+    font-style:italic;
+    transition-duration: 0.5s
+}
+
+.exp {
+    color:red;
+    border:1px solid black;
+    background-color:white;
+    padding:10px 5px 10px 5px;
+    margin-left:10px;
+    text-decoration:none;
+    
+}
+.exp:hover {
+    background-color:blue;
+    transition-duration:0.5s;
+    font-style:italic;
+}
+
+.fav {
+    color:red;
+    border:1px solid black;
+    background-color:white;
+    padding:10px 5px 10px 5px;
+    margin-left:10px;
+    text-decoration:none;
+    border-radius:100px;
+}
+
+.fav:hover {
+      background-color:yellow;
+    transition-duration:0.5s;
+    font-style:italic;
+}

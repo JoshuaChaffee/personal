@@ -27,11 +27,13 @@ a.myself {
     text-decoration:none;
     
 }
+
 .myself:hover {
     background-color:pink;
     font-style:italic;
     transition-duration: 0.5s
 }
+
 img {
     position: relative;
     left:500px;
